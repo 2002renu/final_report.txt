@@ -1,0 +1,13 @@
+==== System Info ====
+MINGW64_NT-10.0-26100 renu 3.6.3-7674c51e.x86_64 2025-07-01 09:13 UTC x86_64 Msys
+
+==== Network Info ====
+
+==== Running Services ====
+
+==== Users Logged In ====
+Scan Report for 127.0.0.1 at 2025-07-18 20:32:31.313422
+Port 135 is OPEN
+Port 445 is OPEN
+Port 902 is OPEN
+Port 912 is OPEN
